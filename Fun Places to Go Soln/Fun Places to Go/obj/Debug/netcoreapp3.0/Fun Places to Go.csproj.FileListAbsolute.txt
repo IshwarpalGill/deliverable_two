@@ -1,0 +1,11 @@
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\obj\Debug\netcoreapp3.0\Fun Places to Go.csprojAssemblyReference.cache
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\obj\Debug\netcoreapp3.0\Fun Places to Go.AssemblyInfoInputs.cache
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\obj\Debug\netcoreapp3.0\Fun Places to Go.AssemblyInfo.cs
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.exe
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.deps.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.runtimeconfig.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.runtimeconfig.dev.json
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.dll
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\bin\Debug\netcoreapp3.0\Fun Places to Go.pdb
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\obj\Debug\netcoreapp3.0\Fun Places to Go.dll
+C:\Users\Ishwa\Documents\GrandCircus\deliverable_two\Fun Places to Go Soln\Fun Places to Go\obj\Debug\netcoreapp3.0\Fun Places to Go.pdb
